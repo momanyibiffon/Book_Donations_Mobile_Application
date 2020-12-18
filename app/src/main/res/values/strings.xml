@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Book Donors</string>
+    <string name="action_settings">Logout</string>
+    <string name="full_name_hint">Full name</string>
+    <string name="student_id_hint">Student ID</string>
+    <string name="book_title_hint">Book title</string>
+    <string name="author_hint">Author</string>
+    <string name="number_of_books_hint">Number of books</string>
+    <string name="save_donation__btn_text">Save</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn_text">Login</string>
+    <string name="have_no_account_txt">Have no account?</string>
+    <string name="register_link_txt">Register</string>
+    <string name="confirm_password_hint">Confirm password</string>
+    <string name="register_btn_txt">Register</string>
+    <string name="already_registered_link_txt">Already registered?</string>
+    <string name="login_link_txt">Login</string>
+    <string name="update_button_txt">Update</string>
+    <string name="add_a_new_donation_title">Add a new donation</string>
+    <string name="update_donation_title">Update donation</string>
+</resources>

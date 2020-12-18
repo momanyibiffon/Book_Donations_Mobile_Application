@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--this animates the recycler view to come from the bottom from 100% to 0%
+    at a duration of 800 milliseconds-->
+    <translate
+        android:duration="800"
+        android:fromYDelta="100%"
+        android:toYDelta="0%" />
+
+</set>
